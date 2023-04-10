@@ -17,6 +17,8 @@ Code Editor and tools: VS Code
 
 This quiz web app is built using React JS. It allows the user to select the different criteria for the quiz from a list of options. The user can proceed to the appropriate answer to the questions in the quiz and their performance will be tracked and shown in the scoreboard. Moreover, the app can be designed to be responsive and it is completely user-friendly.
 
+=====>Link to access the quiz-app:---  https://saikishore-quiz-app.netlify.app/
+
 ==>Setup Steps
 
 
@@ -71,7 +73,7 @@ vi>About Page Interface
 
 3. Navigate to the project directory 
 
-    cd Quiz-App
+   cd Quiz-App
 
 4. Add a reference(remote) to the original repository.
 
@@ -90,14 +92,14 @@ vi>About Page Interface
 
 7.Perfom your desired changes to the code base.
 
-8. Track your changes .
+8.Track your changes .
 
-  git add .
+ git add .
 
 
 9.Commit your changes .
 
-  git commit -m "Relevant message"
+ git commit -m "Relevant message"
 
 
 10.Push the committed changes in your feature branch to your remote repo.
@@ -120,4 +122,9 @@ vi>About Page Interface
 
 
 14.Almost You did it! Wait for your submission to be accepted and your PR to be merged.
+
+
+<<<<<<<=============!!!USERS WILL ENJOY AND PEOPLE LOVE US!!!==================>>>>>>>
+
+
 

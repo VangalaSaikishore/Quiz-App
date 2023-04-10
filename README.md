@@ -1,9 +1,17 @@
 <<<<====================Quiz-App=====================>>>>
 
 Frontend: HTML,CSS,React Js, Java Script, Bootstrap, Chakra UI
+
+
 Version Control: Git and GitHub
+
+
 Hosting: Netlify
+
+
 Code Editor and tools: VS Code
+
+
 
 ====>Overview:--- 
 
@@ -59,43 +67,43 @@ vi>About Page Interface
 
 2. Clone your forked copy of the project.
 
-git clone https://github.com/VangalaSaikishore/Quiz-App.git
+    git clone https://github.com/VangalaSaikishore/Quiz-App.git
 
 3. Navigate to the project directory 
 
-cd Quiz-App
+    cd Quiz-App
 
 4. Add a reference(remote) to the original repository.
 
-git remote add upstream Quiz-App.git
+   git remote add upstream Quiz-App.git
 
 
 5.Check the remotes for this repository.
 
-git remote -v
+  git remote -v
 
 
 6.Create a new branch.
 
-git checkout -b <your_branch_name>
+  git checkout -b <your_branch_name>
 
 
 7.Perfom your desired changes to the code base.
 
 8. Track your changes .
 
-git add .
+  git add .
 
 
 9.Commit your changes .
 
-git commit -m "Relevant message"
+  git commit -m "Relevant message"
 
 
 10.Push the committed changes in your feature branch to your remote repo.
 
 
-git push -u origin <your_branch_name>
+  git push -u origin <your_branch_name>
 
 
 

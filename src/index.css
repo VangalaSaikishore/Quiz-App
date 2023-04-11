@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  background-color:	rgb(182, 18, 72)!important;
+  color: turquoise;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.wrong {
+  background-color:rgb(209, 42, 42) !important;
+  border-color: red!important;
+  /* #E85759 bg  */
+}
+
+.right {
+  background-color: rgb(50, 191, 50) !important;
+  border-color: green !important;
+  /* #28AC63 bg  */
+}
+
+.rightIcon {
+  background-color: #28AE61 !important;
+}
+
+.wrongIcon {
+  background-color: #EE5453 !important;
+}
+
+.optionSelected {
+  background-color: teal !important;
+}

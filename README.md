@@ -1,138 +1,81 @@
-<h1 align="center">
-         Quiz Web App  
-</h1>
+Frontend: HTML,CSS,React Js, Java Script, Bootstrap, Chakra UI
+Version Control: Git and GitHub
+Hosting: Netlify
+Code Editor and tools: VS Code
 
-<div align="center">
+Overview 
+This quiz web app is built using React JS. It allows the user to select the different criteria for the quiz from a list of options. The user can proceed to the appropriate answer to the questions in the quiz and their performance will be tracked and shown in the scoreboard. Moreover, the app can be designed to be responsive and it is completely user-friendly.
 
-![Badge](https://img.shields.io/badge/Tech_Stack-HTML-orange) ![Badge](https://img.shields.io/badge/CSS-blue) ![Badge](https://img.shields.io/badge/React_Js-cyan)
- ![Badge](https://img.shields.io/badge/-Java_Script-yellow) ![Badge](https://img.shields.io/badge/Version-1.0-green) 
+Setup Steps
+*Go to directory
+*cd Quiz-App
+*Install Dependency
+*npm install
+*Start LocalHost Server
+*npm run start
 
-</div>
+==>UI of Website:--
+i>Home Page logo
+(https://user-images.githubusercontent.com/114654354/230972567-0edf27e0-fde3-4b84-8136-3fafd0422612.png)
 
-<h3 align="center">
-          Live Project : https://ask-quiz.netlify.app/
-</h3>
-<br />
+ii>Scoreboard of the Quiz-App
+(https://raw.githubusercontent.com/VangalaSaikishore/Quiz-App/main/src/Assets/scoreboard-bg.jpg)
 
-## Tech Stack : <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/react%20-%2314354C.svg?&style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Chakra_UI-6066C7?style=for-the-badge&logo=chakraui&logoColor=white"/> 
+iii>Home Page Interface
+(https://user-images.githubusercontent.com/114654354/230973164-037e0fac-255f-452b-9562-822d8da31147.png)
 
+iv>Questions Interface
+(https://user-images.githubusercontent.com/114654354/230973454-ad565395-ee45-46ef-b202-6d04688850e2.png)
 
-- **Frontend:** HTML,CSS,React Js, Java Script, Bootstrap, Chakra UI 
-- **Version Control:** Git and GitHub
-- **Hosting:** Netlify
-- **Code Editor and tools**: VS Code
+v>Scoreboard Interface
+(https://user-images.githubusercontent.com/114654354/230973575-a02b0af0-f350-44a4-b1e7-c6a014a5fd49.png)
 
- <br />
-
-   <p align="center"> Welcome to Quiz Web App  <br /></p>
-
-
-## Table of Contents
-
-    - Overview
-    - UI of Website
-    - Contribution Guideline
-
- <br />
+vi>About Page Interface
+(https://user-images.githubusercontent.com/114654354/230973721-18b498e0-db78-4910-b5e0-321db5244bb8.png)
 
 
-## Overview 
 
-This quiz web app is built using React JS. It can allow the user to select the criteria for their quiz from a list of options. The user can then proceed to answer the questions in the quiz and their performance will be tracked and shown in the scoreboard. Moreover, the app can be designed to be responsive and user-friendly.
 
-  <br />
 
-## UI of the Website
 
-![Screenshot (280)](https://user-images.githubusercontent.com/87645745/206394866-4e74fd37-3af4-4bca-8ebe-f3810598d869.png) 
-### Home Page 
 
-![image](https://user-images.githubusercontent.com/87645745/206397113-b70dc86a-c78c-4f6c-bf61-8183c4c07262.png)  
-### Question Page 
+Contribution Guidelines:--
+To start contributing, follow the below guidelines:
 
-![image](https://user-images.githubusercontent.com/87645745/206397461-168cfe8f-2cbe-4d5e-a268-3540baf69ca5.png) 
-### Score Board Page 
+1. Fork this repository.
 
-<br/>
+2. Clone your forked copy of the project.
 
-## Setup Steps
+git clone https://github.com/VangalaSaikishore/Quiz-App.git
 
-- Go to directory
-```
-$ cd Quiz-App
-```
-- Install Dependency 
-```
-npm install
-```
-- Start LocalHost Server
-```
-npm run start
-```
-  <br />
+3. Navigate to the project directory 
 
-## Contribution Guidelines 
-
- To start contributing, follow the below guidelines:
-
-**1.** Fork [this](https://github.com/imhardikdesai/Quiz-App) repository.
-
-**2.** Clone your forked copy of the project.
-
-```
-git clone https://github.com/imhardikdesai/Quiz-App.git
-```
-
-**3.** Navigate to the project directory :file_folder: .
-
-```
 cd Quiz-App
-```
+4. Add a reference(remote) to the original repository.
 
-**4.** Add a reference(remote) to the original repository.
-
-```
 git remote add upstream Quiz-App.git
-```
+5. Check the remotes for this repository.
 
-**5.** Check the remotes for this repository.
-
-```
 git remote -v
-```
+6. Create a new branch.
 
-**6.** Create a new branch.
-
-```
 git checkout -b <your_branch_name>
-```
+7. Perfom your desired changes to the code base.
 
-**7.** Perfom your desired changes to the code base.
+8. Track your changes .
 
-**8.** Track your changes:heavy_check_mark: .
-
-```
 git add .
-```
+9. Commit your changes .
 
-**9.** Commit your changes .
-
-```
 git commit -m "Relevant message"
-```
+10. Push the committed changes in your feature branch to your remote repo.
 
-**10.** Push the committed changes in your feature branch to your remote repo.
-
-```
 git push -u origin <your_branch_name>
-```
+11. To create a pull request, click on compare and pull requests.
 
-**11.** To create a pull request, click on `compare and pull requests`.
+12. Add appropriate title and description to your pull request explaining your changes and efforts done.
 
-**12.** Add appropriate title and description to your pull request explaining your changes and efforts done.
+13. Click on Create Pull Request.
 
-**13.** Click on `Create Pull Request`.
+14 Almost You did it! Wait for your submission to be accepted and your PR to be merged.
 
-**14** You did it!  Wait for your submission to be accepted and your PR to be merged.
-
-<br />

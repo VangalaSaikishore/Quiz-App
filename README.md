@@ -1,20 +1,48 @@
+<<<<====================Quiz-App=====================>>>>
+
 Frontend: HTML,CSS,React Js, Java Script, Bootstrap, Chakra UI
+
+
 Version Control: Git and GitHub
+
+
 Hosting: Netlify
+
+
 Code Editor and tools: VS Code
 
-Overview 
+
+
+====>Overview:--- 
+
 This quiz web app is built using React JS. It allows the user to select the different criteria for the quiz from a list of options. The user can proceed to the appropriate answer to the questions in the quiz and their performance will be tracked and shown in the scoreboard. Moreover, the app can be designed to be responsive and it is completely user-friendly.
 
-Setup Steps
-*Go to directory
-*cd Quiz-App
-*Install Dependency
-*npm install
-*Start LocalHost Server
-*npm run start
+=====>Link to access the quiz-app:---  https://saikishore-quiz-app.netlify.app/
 
-==>UI of Website:--
+==>Setup Steps
+
+
+  *Go to directory
+  
+  
+  *cd Quiz-App
+  
+  
+  *Install Dependency
+  
+  
+  *npm install
+  
+  
+  *Start LocalHost Server
+  
+  
+  *npm run start
+  
+  
+
+==>UI links of the Website:--
+
 i>Home Page logo
 (https://user-images.githubusercontent.com/114654354/230972567-0edf27e0-fde3-4b84-8136-3fafd0422612.png)
 
@@ -33,49 +61,70 @@ v>Scoreboard Interface
 vi>About Page Interface
 (https://user-images.githubusercontent.com/114654354/230973721-18b498e0-db78-4910-b5e0-321db5244bb8.png)
 
+======>Contribution Guidelines:--
 
-
-
-
-
-
-Contribution Guidelines:--
-To start contributing, follow the below guidelines:
+==>To start contributing, follow the below guidelines:
 
 1. Fork this repository.
 
 2. Clone your forked copy of the project.
 
-git clone https://github.com/VangalaSaikishore/Quiz-App.git
+    git clone https://github.com/VangalaSaikishore/Quiz-App.git
 
 3. Navigate to the project directory 
 
-cd Quiz-App
+   cd Quiz-App
+
 4. Add a reference(remote) to the original repository.
 
-git remote add upstream Quiz-App.git
-5. Check the remotes for this repository.
+   git remote add upstream Quiz-App.git
 
-git remote -v
-6. Create a new branch.
 
-git checkout -b <your_branch_name>
-7. Perfom your desired changes to the code base.
+5.Check the remotes for this repository.
 
-8. Track your changes .
+  git remote -v
 
-git add .
-9. Commit your changes .
 
-git commit -m "Relevant message"
-10. Push the committed changes in your feature branch to your remote repo.
+6.Create a new branch.
 
-git push -u origin <your_branch_name>
-11. To create a pull request, click on compare and pull requests.
+  git checkout -b <your_branch_name>
 
-12. Add appropriate title and description to your pull request explaining your changes and efforts done.
 
-13. Click on Create Pull Request.
+7.Perfom your desired changes to the code base.
 
-14 Almost You did it! Wait for your submission to be accepted and your PR to be merged.
+8.Track your changes .
+
+ git add .
+
+
+9.Commit your changes .
+
+ git commit -m "Relevant message"
+
+
+10.Push the committed changes in your feature branch to your remote repo.
+
+
+  git push -u origin <your_branch_name>
+
+
+
+11.To create a pull request, click on compare and pull requests.
+
+
+
+12.Add appropriate title and description to your pull request explaining your changes and efforts done.
+
+
+
+13.Click on Create Pull Request.
+
+
+
+14.Almost You did it! Wait for your submission to be accepted and your PR to be merged.
+
+
+<<<<<<<=============!!!USERS WILL ENJOY AND PEOPLE LOVE US!!!==================>>>>>>>
+
+
 
